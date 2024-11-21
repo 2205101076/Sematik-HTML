@@ -1,3 +1,9 @@
+Nama: Rio Ade Zaputra
+NIM/Kelas: 2205101076/5D
+SEMANTIC-HTML
+Latihan Praktikum Semantic HTML.
+
+Semantic HTML Project
 # Sematik-HTML
 Berikut adalah parafrase dari teks analisis yang Anda berikan, dengan struktur yang lebih sederhana dan ringkas:
 
